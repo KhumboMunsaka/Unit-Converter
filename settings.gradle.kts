@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Currency Converter"
+rootProject.name = "Unit Converter"
 include(":app")
